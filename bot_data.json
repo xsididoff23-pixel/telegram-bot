@@ -1,0 +1,1093 @@
+{
+  "captcha_passed": {
+    "5366500428": {
+      "passed": true,
+      "answer": null
+    },
+    "6464707654": {
+      "passed": true,
+      "answer": null
+    },
+    "7892214606": {
+      "passed": true,
+      "answer": null
+    },
+    "6207577017": {
+      "passed": true,
+      "answer": null
+    },
+    "8209094563": {
+      "passed": true,
+      "answer": null
+    },
+    "8403064581": {
+      "passed": true,
+      "answer": null
+    },
+    "7255988785": {
+      "passed": true,
+      "answer": null
+    },
+    "5663750394": {
+      "passed": true,
+      "answer": null
+    },
+    "5530165153": {
+      "passed": true,
+      "answer": null
+    },
+    "5117943348": {
+      "passed": true,
+      "answer": null
+    },
+    "8098596385": {
+      "passed": true,
+      "answer": null
+    },
+    "7960572844": {
+      "passed": true,
+      "answer": null
+    }
+  },
+  "captcha_data": {
+    "7930224695": {
+      "correct": "🐻",
+      "created_at": 87562.0690027,
+      "attempts": 0
+    },
+    "7519371706": {
+      "correct": "🐧",
+      "created_at": 88388.5304874,
+      "attempts": 0
+    }
+  },
+  "referral_codes": {
+    "5366500428": {
+      "referrals": 2,
+      "earned": 10006.5
+    },
+    "7892214606": {
+      "referrals": 0,
+      "earned": 7751.25
+    },
+    "6207577017": {
+      "referrals": 0,
+      "earned": 0.25
+    },
+    "6464707654": {
+      "referrals": 7,
+      "earned": 14.75
+    },
+    "8209094563": {
+      "referrals": 0,
+      "earned": 1.25
+    },
+    "5663750394": {
+      "referrals": 0,
+      "earned": 0
+    },
+    "7960572844": {
+      "referrals": 0,
+      "earned": 2.25
+    }
+  },
+  "pending_referrals": {
+    "5366500428": [],
+    "6464707654": [
+      {
+        "user_id": "7930224695",
+        "username": null,
+        "full_name": "Ban"
+      },
+      {
+        "user_id": "7519371706",
+        "username": "Xxlvq",
+        "full_name": "𝗠𝗘𝗙𝗘𝗗𝗥𝗢𝗡"
+      },
+      {
+        "user_id": "8098596385",
+        "username": "Madi08818",
+        "full_name": "Madi_201?"
+      }
+    ]
+  },
+  "users_db": {
+    "5366500428": {
+      "username": "EneigiProgi",
+      "full_name": "Paul Durden🧼🥊MRKT",
+      "joined_at": "2026-04-13 18:06:08",
+      "last_active": "2026-04-15 18:59:59"
+    },
+    "6464707654": {
+      "username": null,
+      "full_name": "ЧЕК ПРОФИЛЬ 👆👆👆",
+      "joined_at": "2026-04-13 18:24:29",
+      "last_active": "2026-04-16 19:22:59"
+    },
+    "7892214606": {
+      "username": "gegerokoo",
+      "full_name": "Sqwazir",
+      "joined_at": "2026-04-13 19:05:28",
+      "last_active": "2026-04-18 14:50:19"
+    },
+    "6207577017": {
+      "username": "Pasha_llll",
+      "full_name": "Паша",
+      "joined_at": "2026-04-13 19:34:44",
+      "last_active": "2026-04-13 19:35:35"
+    },
+    "8209094563": {
+      "username": "muawka",
+      "full_name": "Myawka",
+      "joined_at": "2026-04-15 18:37:13",
+      "last_active": "2026-04-15 18:37:13"
+    },
+    "7930224695": {
+      "username": null,
+      "full_name": "Ban",
+      "joined_at": "2026-04-15 19:36:56",
+      "last_active": "2026-04-15 20:04:53"
+    },
+    "8403064581": {
+      "username": "Cat_xyzhaha",
+      "full_name": "Рома",
+      "joined_at": "2026-04-15 20:10:49",
+      "last_active": "2026-04-15 20:16:22"
+    },
+    "7519371706": {
+      "username": "Xxlvq",
+      "full_name": "𝗠𝗘𝗙𝗘𝗗𝗥𝗢𝗡",
+      "joined_at": "2026-04-15 20:18:39",
+      "last_active": "2026-04-15 20:18:39"
+    },
+    "7255988785": {
+      "username": "ner1zo",
+      "full_name": "Всеволод",
+      "joined_at": "2026-04-15 20:19:30",
+      "last_active": "2026-04-15 20:19:30"
+    },
+    "5663750394": {
+      "username": null,
+      "full_name": "Илюха",
+      "joined_at": "2026-04-15 20:24:25",
+      "last_active": "2026-04-15 20:25:33"
+    },
+    "5530165153": {
+      "username": "Stepkc",
+      "full_name": "Brunette 🫦",
+      "joined_at": "2026-04-15 20:32:55",
+      "last_active": "2026-04-15 20:32:55"
+    },
+    "5117943348": {
+      "username": "usernamelimalim",
+      "full_name": "|",
+      "joined_at": "2026-04-15 20:37:42",
+      "last_active": "2026-04-15 20:37:57"
+    },
+    "8098596385": {
+      "username": "Madi08818",
+      "full_name": "Madi_201?",
+      "joined_at": "2026-04-15 20:39:59",
+      "last_active": "2026-04-15 20:39:59"
+    },
+    "7960572844": {
+      "username": "serti77",
+      "full_name": "two time",
+      "joined_at": "2026-04-16 19:39:30",
+      "last_active": "2026-04-16 19:39:30"
+    }
+  },
+  "user_bonus": {
+    "5366500428": {
+      "last_bonus": 1776263695.096828,
+      "last_amount": 0.75
+    },
+    "6207577017": {
+      "last_bonus": 1776098127.520605,
+      "last_amount": 0.25
+    },
+    "7892214606": {
+      "last_bonus": 1776257953.919105,
+      "last_amount": 0.25
+    },
+    "8209094563": {
+      "last_bonus": 1776267479.08091,
+      "last_amount": 1.25
+    },
+    "7960572844": {
+      "last_bonus": 1776357614.012226,
+      "last_amount": 1.25
+    }
+  },
+  "withdraw_requests": {
+    "1": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 350,
+      "status": "completed",
+      "created_at": "2026-04-14 07:24:18"
+    },
+    "2": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-14 07:24:32"
+    },
+    "3": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-14 07:30:26"
+    },
+    "4": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:38:02"
+    },
+    "5": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:38:26"
+    },
+    "6": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:38:51"
+    },
+    "7": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 100,
+      "status": "completed",
+      "created_at": "2026-04-15 16:39:03"
+    },
+    "8": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 25,
+      "status": "completed",
+      "created_at": "2026-04-15 16:40:01"
+    },
+    "9": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:40:15"
+    },
+    "10": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:40:33"
+    },
+    "11": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:40:47"
+    },
+    "12": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:40:57"
+    },
+    "13": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 50,
+      "status": "completed",
+      "created_at": "2026-04-15 16:41:11"
+    },
+    "14": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:41:23"
+    },
+    "15": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:41:30"
+    },
+    "16": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:41:37"
+    },
+    "17": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:41:43"
+    },
+    "18": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:41:49"
+    },
+    "19": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:42:02"
+    },
+    "20": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:42:08"
+    },
+    "21": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:42:16"
+    },
+    "22": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:42:24"
+    },
+    "23": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:42:33"
+    },
+    "24": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:42:41"
+    },
+    "25": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:42:56"
+    },
+    "26": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 50,
+      "status": "completed",
+      "created_at": "2026-04-15 16:43:10"
+    },
+    "27": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:43:22"
+    },
+    "28": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:43:35"
+    },
+    "29": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:43:45"
+    },
+    "30": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:43:52"
+    },
+    "31": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:44:07"
+    },
+    "32": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:44:16"
+    },
+    "33": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:44:29"
+    },
+    "34": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:44:33"
+    },
+    "35": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:44:39"
+    },
+    "36": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:44:44"
+    },
+    "37": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:44:49"
+    },
+    "38": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:44:57"
+    },
+    "39": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:45:06"
+    },
+    "40": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:45:14"
+    },
+    "41": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:45:25"
+    },
+    "42": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:45:38"
+    },
+    "43": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:45:49"
+    },
+    "44": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:45:54"
+    },
+    "45": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:46:09"
+    },
+    "46": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:46:14"
+    },
+    "47": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:46:22"
+    },
+    "48": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:46:26"
+    },
+    "49": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:46:34"
+    },
+    "50": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:46:40"
+    },
+    "51": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 16:46:53"
+    },
+    "52": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:27:23"
+    },
+    "53": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:27:49"
+    },
+    "54": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:27:58"
+    },
+    "55": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:28:08"
+    },
+    "56": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:28:21"
+    },
+    "57": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 50,
+      "status": "completed",
+      "created_at": "2026-04-15 17:28:27"
+    },
+    "58": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 50,
+      "status": "completed",
+      "created_at": "2026-04-15 17:28:33"
+    },
+    "59": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:28:45"
+    },
+    "60": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:29:36"
+    },
+    "61": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:36:04"
+    },
+    "62": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:36:10"
+    },
+    "63": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:36:17"
+    },
+    "64": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:37:20"
+    },
+    "65": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:37:25"
+    },
+    "66": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:37:40"
+    },
+    "67": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:37:51"
+    },
+    "68": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:38:00"
+    },
+    "69": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:38:11"
+    },
+    "70": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:38:18"
+    },
+    "71": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:38:26"
+    },
+    "72": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:38:31"
+    },
+    "73": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:38:36"
+    },
+    "74": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:38:49"
+    },
+    "75": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:38:55"
+    },
+    "76": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:39:04"
+    },
+    "77": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:39:18"
+    },
+    "78": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:39:26"
+    },
+    "79": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:39:33"
+    },
+    "80": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:39:42"
+    },
+    "81": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:40:09"
+    },
+    "82": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:40:16"
+    },
+    "83": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:40:34"
+    },
+    "84": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:40:46"
+    },
+    "85": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:41:15"
+    },
+    "86": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:41:22"
+    },
+    "87": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:41:36"
+    },
+    "88": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:41:48"
+    },
+    "89": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:41:59"
+    },
+    "90": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:42:16"
+    },
+    "91": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:42:26"
+    },
+    "92": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:42:36"
+    },
+    "93": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:42:42"
+    },
+    "94": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:42:48"
+    },
+    "95": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:42:53"
+    },
+    "96": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:42:59"
+    },
+    "97": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:43:05"
+    },
+    "98": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:43:11"
+    },
+    "99": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:43:18"
+    },
+    "100": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:43:26"
+    },
+    "101": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:43:34"
+    },
+    "102": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:43:42"
+    },
+    "103": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:43:49"
+    },
+    "104": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:43:59"
+    },
+    "105": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:44:10"
+    },
+    "106": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:44:16"
+    },
+    "107": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:44:22"
+    },
+    "108": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:44:27"
+    },
+    "109": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:44:33"
+    },
+    "110": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:44:38"
+    },
+    "111": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:44:44"
+    },
+    "112": {
+      "user_id": "7892214606",
+      "username": "gggggegeg",
+      "amount": 15,
+      "status": "completed",
+      "created_at": "2026-04-15 17:44:50"
+    }
+  },
+  "request_counter": 112,
+  "request_sent": {
+    "5366500428": {
+      "sent": true,
+      "time": 1776096716.058892,
+      "chat_id": -1003364475349
+    },
+    "6464707654": {
+      "sent": true,
+      "time": 1776094112.543439,
+      "chat_id": -1003876875157
+    },
+    "7892214606": {
+      "sent": true,
+      "time": 1776257979.701795,
+      "chat_id": -1003933380111
+    },
+    "6207577017": {
+      "sent": true,
+      "time": 1776098089.483663,
+      "chat_id": -1003876875157
+    },
+    "8209094563": {
+      "sent": true,
+      "time": 1776267441.507881,
+      "chat_id": -1003876875157
+    },
+    "8403064581": {
+      "sent": true,
+      "time": 1776273057.876333,
+      "chat_id": -1003876875157
+    },
+    "7255988785": {
+      "sent": true,
+      "time": 1776273586.668809,
+      "chat_id": -1003876875157
+    },
+    "5663750394": {
+      "sent": true,
+      "time": 1776273883.371413,
+      "chat_id": -1003876875157
+    },
+    "5530165153": {
+      "sent": true,
+      "time": 1776274393.794524,
+      "chat_id": -1003876875157
+    },
+    "5117943348": {
+      "sent": true,
+      "time": 1776274686.483511,
+      "chat_id": -1003876875157
+    },
+    "7960572844": {
+      "sent": true,
+      "time": 1776357636.730137,
+      "chat_id": -1003364475349
+    }
+  },
+  "user_tasks_completed": {
+    "5366500428": {
+      "1": true,
+      "2": true
+    },
+    "7892214606": {
+      "2": true,
+      "1": true
+    },
+    "7960572844": {
+      "1": true,
+      "2": true
+    }
+  },
+  "task_requests": {},
+  "active_task": {
+    "6207577017": "1",
+    "6464707654": "1",
+    "7255988785": "1"
+  },
+  "skipped_tasks": {
+    "5366500428": {},
+    "6207577017": {
+      "2": 1776098116.182421
+    },
+    "7892214606": {}
+  }
+}

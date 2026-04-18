@@ -1,0 +1,28 @@
+{
+  "tasks_list": {
+    "1": {
+      "name": "Подпишись на канал",
+      "url": "https://t.me/+sfIBjbbzv684ZDEx",
+      "reward": 0.5
+    },
+    "2": {
+      "name": "Подпишись на канал",
+      "url": "https://t.me/+MUJ3MU4woB0wZDMx",
+      "reward": 0.5
+    }
+  },
+  "user_tasks_completed": {
+    "5366500428": {
+      "1": true,
+      "2": true
+    },
+    "7892214606": {
+      "2": true,
+      "1": true
+    },
+    "7960572844": {
+      "1": true,
+      "2": true
+    }
+  }
+}
