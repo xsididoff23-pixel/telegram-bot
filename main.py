@@ -621,7 +621,7 @@ async def check_subscriptions(callback: CallbackQuery):
                         try:
                             await bot.send_message(
                                 int(referrer_id),
-                                f"🤖 {user_mention} прошел подписку на каналы, начислено +1.75⭐",
+                                f"🤖 {user_mention} прошел подписку на каналы, начислено +2.65⭐",
                                 parse_mode=ParseMode.HTML,
                                 disable_web_page_preview=True
                             )
