@@ -56,7 +56,7 @@ class CallbackAntiSpamMiddleware:
         return await handler(event, data)
 
 # ========== КОНФИГУРАЦИЯ ==========
-TOKEN = "8685561918:AAGaTzKHLARI6ePyAPYdEfkDzbnID7s9L8I"
+TOKEN = "8410870219:AAFT55BS8hGfpV2ZcEc7sixXx7QBOkvUpyM"
 ADMIN_IDS = [7636031451, 5366500428, 7892214606]
 
 # ========== БОТ (БЕЗ ПРОКСИ, ЧТОБЫ НЕ БЫЛО ПЕРЕБОЕВ) ==========
