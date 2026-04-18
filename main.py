@@ -56,7 +56,7 @@ class CallbackAntiSpamMiddleware:
         return await handler(event, data)
 
 # ========== КОНФИГУРАЦИЯ ==========
-TOKEN = "8410870219:AAFT55BS8hGfpV2ZcEc7sixXx7QBOkvUpyM"
+TOKEN = "8685561918:AAGaTzKHLARI6ePyAPYdEfkDzbnID7s9L8I"
 ADMIN_IDS = [7636031451, 5366500428, 7892214606]
 
 # ========== БОТ (БЕЗ ПРОКСИ, ЧТОБЫ НЕ БЫЛО ПЕРЕБОЕВ) ==========
@@ -486,7 +486,7 @@ async def start(message: Message):
 
         # Если ещё не начисляли - начисляем 0.25
         if not already_rewarded and referrer_id in referral_codes:
-            referral_codes[referrer_id]["earned"] += 0.25
+            referral_codes[referrer_id]["earned"] += 0.35
             save_data()
 
             # Добавляем в pending_referrals
@@ -504,8 +504,8 @@ async def start(message: Message):
             try:
                 await bot.send_message(
                     int(referrer_id),
-                    f"🤖 {user_mention} перешел по вашей реферальной ссылке, начислили на ваш баланс в боте +0.25⭐\n\n"
-                    f"Как только он пройдет капчу бота, начислим еще +1.75⭐",
+                    f"🤖 {user_mention} перешел по вашей реферальной ссылке, начислили на ваш баланс в боте +0.35⭐\n\n"
+                    f"Как только он пройдет капчу бота, начислим еще +2.65⭐",
                     parse_mode=ParseMode.HTML,
                     disable_web_page_preview=True
                 )
@@ -614,7 +614,7 @@ async def check_subscriptions(callback: CallbackQuery):
             for i, pending in enumerate(pending_list):
                 if pending["user_id"] == user_id:
                     if referrer_id in referral_codes:
-                        referral_codes[referrer_id]["earned"] += 1.75
+                        referral_codes[referrer_id]["earned"] += 2.65
                         referral_codes[referrer_id]["referrals"] = referral_codes[referrer_id].get("referrals", 0) + 1
                         save_data()
                         user_mention = get_user_mention(callback.from_user)
@@ -1688,10 +1688,10 @@ async def earn_stars(message: Message):
     )
     text = (
         "👥 <b>Приглашай пользователей в бота и получай звёзды!</b>\n\n"
-        "💎 За каждого приглашённого друга ты получаешь <b>2.00⭐</b>\n\n"
+        "💎 За каждого приглашённого друга ты получаешь <b>3.00⭐</b>\n\n"
         "<b>Как это работает:</b>\n"
-        "• <b>0.25⭐</b> — начисляется сразу после перехода по твоей ссылке\n"
-        "• <b>1.75⭐</b> — начисляется после того, как друг подпишется на канал\n\n"
+        "• <b>0.35⭐</b> — начисляется сразу после перехода по твоей ссылке\n"
+        "• <b>2.65⭐</b> — начисляется после того, как друг подпишется на канал\n\n"
         "💰 Чем больше друзей пригласишь — тем больше звёзд получишь!\n\n"
         "📎 <b>Твоя ссылка:</b>\n"
         f"<code>https://t.me/FlyStarsingBot?start={encoded_id}</code>\n\n"
